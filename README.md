@@ -37,4 +37,4 @@ Educational projects on multithreading and client-server models
 
 Can be extended to build chat-based or real-time network applications
 
-*OUTPUT*:
+*OUTPUT*:<img width="308" height="161" alt="Image" src="https://github.com/user-attachments/assets/f40c1553-7b13-4860-8e4e-a91683f2e6d2" />
